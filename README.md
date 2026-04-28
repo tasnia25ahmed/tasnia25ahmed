@@ -1,7 +1,7 @@
 # Hi there, I'm Tasnia! 👋
 
 <p align="left">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Intermediate+Front-End+Dev;Learning+React+%26+Python;Building+VitaLens" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Intermediate+Front-End+Dev;Learning+Node.js+%26+C#" alt="Typing SVG" />
 </p>
 
 ---
@@ -31,5 +31,5 @@
 ---
 
 ### 🤝 Connect with me
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">](https://linkedin.com/in/your-profile) 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/tasnia-ahmed2024/) 
 ![](https://komarev.com/ghpvc/?username=tasnia25ahmed&color=f75c7e&style=for-the-badge&label=PROFILE+VIEWS)
