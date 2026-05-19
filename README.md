@@ -21,9 +21,9 @@
 ### 📊 My GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=tasnia25ahmed&show_icons=true&theme=radical&hide_border=true&align=center&cache_seconds=1800" alt="Tasnia's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=tasnia25ahmed&show_icons=true&cache_seconds=1800&theme=radical&hide_border=true&align=center&cache_seconds=1800" alt="Tasnia's GitHub Stats" />
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tasnia25ahmed&layout=compact&theme=radical&hide_border=truecache_seconds=1800" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tasnia25ahmed&layout=compact&cache_seconds=1800&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
