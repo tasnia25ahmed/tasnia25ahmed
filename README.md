@@ -24,6 +24,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tasnia25ahmed&theme=react-dark&bg_color=1a1a1a&hide_border=true" alt="Tasnia's Contribution Graph" />
 </p>
 
+<p align="center">
+  <img src="https://metrics.lecoq.io/tasnia25ahmed?template=classic&base.header=0&base.activity=0&base.community=0&config.timezone=America%2FNew_York" alt="Tasnia's GitHub Metrics" />
+</p>
+
 ---
 
 ### 🤝 Connect with me
