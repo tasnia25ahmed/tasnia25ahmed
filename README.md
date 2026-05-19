@@ -25,9 +25,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=tasnia25ahmed&show_icons=true&theme=radical&hide_border=true" alt="Tasnia's GitHub Stats" />
+  <img src="./profile-stats/stats-basic.svg" alt="Tasnia's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=tasnia25ahmed&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="./profile-stats/top-langs-basic.svg" alt="Top Languages" />
 </p>
 
 ---
