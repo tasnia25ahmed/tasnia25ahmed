@@ -3,7 +3,7 @@ name: Generate GitHub Stats SVGs
 on:
   schedule:
     - cron: "0 0 * * *" # Runs every day at midnight
-  workflow_dispatch: # Allows you to run it manually
+  workflow_dispatch: # Allows manual trigger
 
 jobs:
   update-stats:
@@ -12,23 +12,30 @@ jobs:
       - name: Checkout Repo
         uses: actions/checkout@v4
 
-      - name: Generate Stats Cards
+      # 1. Generate the Main Stats Card
+      - name: Generate Main Stats Card
         uses: soulteary/github-readme-stats-action@main
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          username: tasnia25ahmed
-          output_dir: ./profile-stats
-          stats_theme: radical
-          stats_hide_border: true
-          stats_show_icons: true
-          langs_theme: radical
-          langs_hide_border: true
-          langs_layout: compact
+          card: stats
+          path: ./profile-stats/stats-basic.svg
+          options: username=tasnia25ahmed&theme=radical&hide_border=true&show_icons=true
 
+      # 2. Generate the Top Languages Card
+      - name: Generate Top Languages Card
+        uses: soulteary/github-readme-stats-action@main
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          card: top-langs
+          path: ./profile-stats/top-langs-basic.svg
+          options: username=tasnia25ahmed&theme=radical&hide_border=true&layout=compact
+
+      # 3. Commit and push the SVGs back to your repo
       - name: Commit and Push Changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          mkdir -p ./profile-stats
           git add ./profile-stats/*.svg
           git commit -m "chore: update github profile stats SVGs" || exit 0
           git push
