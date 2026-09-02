@@ -8,6 +8,8 @@ on:
 jobs:
   update-stats:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # Grants write permissions to commit and push
     steps:
       - name: Checkout Repo
         uses: actions/checkout@v4
