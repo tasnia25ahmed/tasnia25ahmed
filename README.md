@@ -21,7 +21,7 @@
 ### 📊 My Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tasnia25ahmed&theme=react-dark&bg_color=1a1a1a&hide_border=true" alt="Tasnia's Contribution Graph" />
+  <img src="https://github-readme-activity-graph.bhupesh.me/graph?username=tasnia25ahmed&theme=react-dark&bg_color=1a1a1a&hide_border=true" alt="Tasnia's Contribution Graph" />
 </p>
 
 <p align="center">
