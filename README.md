@@ -1,7 +1,7 @@
 # Hi there, I'm Tasnia! 👋
 
 <p align="left">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Intermediate+Front-End+Dev;Learning+Node.js+%26+C#" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Intermediate+Front-End+Dev;Learning+Node.js+%26+C#" alt="Typing SVG" />
 </p>
 
 ---
@@ -21,13 +21,13 @@
 ### 📊 My Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tasnia25ahmed/tasnia25ahmed/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
+  <img src="https://github-readme-activity-graph.bhupesh.me/graph?username=tasnia25ahmed&theme=react-dark&bg_color=1a1a1a&hide_border=true" alt="Tasnia's Contribution Graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tasnia25ahmed&theme=radical&hide_border=true&show_icons=true" alt="Tasnia's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tasnia25ahmed&theme=radical&hide_border=true&show_icons=true" alt="Tasnia's GitHub Stats" />
   <br/>
-  <img src="https://raw.githubusercontent.com/tasnia25ahmed/tasnia25ahmed/main/profile-stats/top-langs-basic.svg" alt="Top Languages"/>
+  <img src="https://raw.githubusercontent.com/tasnia25ahmed/tasnia25ahmed/main/profile-stats/top-langs-basic.svg" alt="Top Languages" />
 </p>
 
 ---
