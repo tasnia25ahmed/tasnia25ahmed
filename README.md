@@ -21,13 +21,13 @@
 ### 📊 My Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.bhupesh.me/graph?username=tasnia25ahmed&theme=react-dark&bg_color=1a1a1a&hide_border=true" alt="Tasnia's Contribution Graph" />
+  <img src="https://github-readme-activity-graph.bhupesh.me/graph?username=tasnia25ahmed&theme=react-dark&bg_color=1a1a1a&hide_border=true" alt="Tasnia's Contribution Graph"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tasnia25ahmed&theme=radical&hide_border=true&show_icons=true" alt="Tasnia's GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tasnia25ahmed&theme=radical&hide_border=true&show_icons=true" alt="Tasnia's GitHub Stats"/>
   <br/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tasnia25ahmed&theme=radical&hide_border=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tasnia25ahmed&theme=radical&hide_border=true&layout=compact" alt="Top Languages"/>
 </p>
 
 ---
