@@ -25,9 +25,9 @@
 </p>
 
 <p align="center">
-  <img src="./profile-stats/stats-basic.svg" alt="Tasnia's GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tasnia25ahmed&theme=radical&hide_border=true&show_icons=true" alt="Tasnia's GitHub Stats" />
   <br/>
-  <img src="./profile-stats/top-langs-basic.svg" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tasnia25ahmed&theme=radical&hide_border=true&layout=compact" alt="Top Languages" />
 </p>
 
 ---
