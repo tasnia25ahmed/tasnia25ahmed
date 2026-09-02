@@ -18,12 +18,16 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 My Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tasnia25ahmed&theme=radical&hide_border=true&show_icons=true" alt="Tasnia's GitHub Stats" />
+  <img src="https://github-readme-activity-graph.bhupesh.me/graph?username=tasnia25ahmed&theme=react-dark&bg_color=1a1a1a&hide_border=true" alt="Tasnia's Contribution Graph" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tasnia25ahmed/tasnia25ahmed/main/profile-stats/stats-basic.svg" alt="Tasnia's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tasnia25ahmed&theme=radical&hide_border=true&layout=compact" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/tasnia25ahmed/tasnia25ahmed/main/profile-stats/top-langs-basic.svg" alt="Top Languages" />
 </p>
 
 ---
