@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tasnia25ahmed&theme=radical&hide_border=true&show_icons=true" alt="Tasnia's GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/tasnia25ahmed/tasnia25ahmed/main/profile-stats/stats-basic.svg" alt="Tasnia's GitHub Stats" />
   <br/>
   <img src="https://raw.githubusercontent.com/tasnia25ahmed/tasnia25ahmed/main/profile-stats/top-langs-basic.svg" alt="Top Languages" />
 </p>
