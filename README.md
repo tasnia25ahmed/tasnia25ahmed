@@ -1,6 +1,5 @@
 
 # Hi there, I'm Tasnia! 👋
-# Hi, I'm Tasnia 👋
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Intermediate+Front-End+Dev;Learning+Node.js+%26+C#" alt="Typing SVG" />
