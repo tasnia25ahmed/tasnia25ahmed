@@ -66,7 +66,6 @@ I’m a passionate front-end developer focused on building modern, responsive, a
 <p align="center">
   <img src="https://raw.githubusercontent.com/tasnia25ahmed/tasnia25ahmed/main/profile-stats/stats-basic.svg" alt="Tasnia's GitHub Stats" />
   <br/>
-  <img src="https://raw.githubusercontent.com/tasnia25ahmed/tasnia25ahmed/main/profile-stats/top-langs-basic.svg" alt="Top Languages" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tasnia25ahmed&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
